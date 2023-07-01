@@ -9,8 +9,6 @@ The PyPoll calculates the total votes and vote count for each candidate, prints 
 The PyBank calculates the total votes and vote count for each candidate, prints the results to the console, and exports the results to a text file for further analysis or reporting.
 
 
-Findings:
-
 -- PyBank: Financial Analysis
 -------------------
 Total number of months: 86
